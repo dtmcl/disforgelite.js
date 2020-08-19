@@ -1,0 +1,24 @@
+{
+  "name": "disforgelite.js",
+  "version": "1.0.0",
+  "description": "Lightweight wrapper to post bot stats to disforge.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bots",
+    "disforge",
+    "discord api",
+    "botlist",
+    "discord bots",
+    "disforge.js",
+    "disforgelite.js"
+  ],
+  "author": "dtmcl",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

@@ -12,7 +12,7 @@ npm i disforgelite.js
 
 ## Example Usage
 
-```
+```javascript
 var disforge = require("disforgelite.js").client(your.bot.id,"bot-auth-token");
 
 setInterval(function(){ disforge.send(your.server.count); }, 3600000);

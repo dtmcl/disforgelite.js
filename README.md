@@ -1,6 +1,6 @@
 # disforgelite.js
 
-Lightweight wrapper to post Discord bot stats to disforge.com 
+Lightweight wrapper to post Discord bot stats to [disforge.com](https://disforge.com) 
 
 
 
